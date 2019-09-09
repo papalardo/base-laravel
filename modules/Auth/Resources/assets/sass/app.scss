@@ -1,0 +1,6 @@
+@import '../../../../../resources/sass/_foundation/foundation.scss';
+
+// @include foundation-everything(true); // Incluir tudo (True) para o Flex Grid 
+
+// Para importar outros items, usar includes que estão no arquivo "foundation.scss" 
+@include foundation-xy-grid-classes;
