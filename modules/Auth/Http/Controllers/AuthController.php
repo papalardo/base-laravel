@@ -14,7 +14,7 @@ class AuthController extends Controller
      */
     public function index()
     {
-        return view('auth::index');
+        return view('auth::auth.login');
     }
 
     /**
